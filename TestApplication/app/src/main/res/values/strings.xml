@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestApplication</string>
+    <string name="enter_amount">Enter amount in USD</string>
+    <string name="convert_to_euro">Convert to Euro</string>
 </resources>
