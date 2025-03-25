@@ -1,0 +1,5 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">RecycleViewProject</string>
+    <string name="recycler_view_desc">A list of randomly displayed chapters.</string>
+</resources>
