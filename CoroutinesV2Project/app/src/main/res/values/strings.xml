@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CoroutinesV2Project</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add_name_btn">ADD NAME</string>
+    <string name="recycler_view_desc">List of delayed name results</string>
+</resources>
